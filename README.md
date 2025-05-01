@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello there, I'm <a href="https://www.linkedin.com/in/erick-santiago-rodriguez-reinoso/">Erick</a> 👋</h1>
 </div>
-<img src="https://github.com/user-attachments/assets/640e798c-00fe-4885-916e-57a438ab6204">
+
 
 
 ## About me
