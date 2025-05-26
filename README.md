@@ -7,7 +7,7 @@
 ## About me
 
 - ⭐ Java and Spring Boot Enthusiast ⭐ 
-- 💻 Backend developer
+- 💻 Backend Developer
 
 
 ### ⚙️ &nbsp;GitHub Analytics
